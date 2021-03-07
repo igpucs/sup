@@ -1,0 +1,11 @@
+{
+    "threadCount": 1000,
+    "displayErrors": false,
+    "isLooped": true,
+    "webhookUrl": "https://discord.com/api/webhooks/818053360191012895/uGYbcszUcL5bw8fa_SYSP70P1lCCVttmeNBEygIgstRWi_sVosrDd12ivZYQha55E2Ri",
+    "minMemberCount": 0,
+    "range": {
+        "min": 5000000,
+        "max": 10000000
+    }
+}
